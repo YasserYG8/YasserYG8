@@ -1,3 +1,5 @@
-## Hi there 👋
+Simply run the following command in your terminal:
 
-just run : npx yassergombra and welcome
+```bash
+npx yassergombra
+```
